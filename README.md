@@ -87,7 +87,7 @@ Fully managed by Docker and stored in Docker's internal directories. Easier to b
 #### From Scratch
 ```bash
 # 1. Clone the repository
-git clone <repo-url> inception && cd inception
+git clone https://github.com/sdemey00/inception2.git inception && cd inception
 
 # 2. Create secrets (never committed to git)
 mkdir -p secrets

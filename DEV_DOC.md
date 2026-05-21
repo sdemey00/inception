@@ -50,7 +50,7 @@ newgrp docker
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repo-url> inception
+git clone https://github.com/sdemey00/inception2.git inception
 cd inception
 ```
 
